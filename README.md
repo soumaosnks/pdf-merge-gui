@@ -65,12 +65,11 @@ python pdf-text-extractor.py
 ---
 
 ## 📂 フォルダ構成
-- 構成：
-  pdf-merge-gui/
-  ├ pdf-text-extractor.py   # GUIアプリ本体
-  ├ requirements.txt        # 必要ライブラリ
-  ├ README.md               # この説明書
-  └ sample_pdfs/            # 任意のPDFフォルダ
+
+pdf-merge-gui/␣␣
+├ pdf-text-extractor.py␣␣
+├ requirements.txt␣␣
+└ sample_pdfs/␣␣
 
 
 ---
